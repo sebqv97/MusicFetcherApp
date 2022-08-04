@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ScratchApplication</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_description">This is an image representing the album</string>
+    <string name="pop">Pop</string>
+    <string name="classic">Classic</string>
+    <string name="rock">Rock</string>
+    <string name="currency_USD">"%d USD"</string>
+</resources>
